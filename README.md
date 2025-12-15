@@ -17,7 +17,7 @@ It must contain an “mp3” folder at the root, containing mp3 files numbered a
 
 etc...
 
-Next, prepare the electronic assembly. (see the diagram file)
+Next, prepare the electronic assembly. (see the diagram)
 
 Connect the GND and VCC (5V) to the ESP. 
 
@@ -29,10 +29,10 @@ Connect speaker + to SPK_1.
 
 Connect speaker - to SPK_2.
 
+![Présentation1](https://github.com/user-attachments/assets/904acb37-8cd1-45ea-a18b-1b3f8984671a)
+
+
 Finally, flash the ESP with the esphome-file.yaml file above.
 
 
-<img width="510" height="842" alt="image" src="https://github.com/user-attachments/assets/6728e109-c2a3-4735-8311-c3c29263d5b4" />
-
-<img width="329" height="200" alt="image" src="https://github.com/user-attachments/assets/cb350398-d28c-4a0a-8ca5-5027ac28cde8" />
 

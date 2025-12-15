@@ -34,5 +34,8 @@ Connect speaker - to SPK_2.
 
 Finally, flash the ESP with the esphome-file.yaml file above.
 
+![exemple](https://github.com/user-attachments/assets/dfd36991-f91a-4cd7-a4f8-e3cc2d69df92)
+
+
 
 
